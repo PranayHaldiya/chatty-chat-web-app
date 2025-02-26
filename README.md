@@ -1,8 +1,22 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+### Login Page
+![Demo App](https://github.com/PranayHaldiya/chatty-chat-web-app/blob/main/frontend/public/Screenshot%202025-02-26%20150547.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+### Signup Page
+![Demo App](https://github.com/PranayHaldiya/chatty-chat-web-app/blob/main/frontend/public/Screenshot%202025-02-26%20150600.png)
+
+### Two Users chatting dashboard
+![Demo App](https://github.com/PranayHaldiya/chatty-chat-web-app/blob/main/frontend/public/Screenshot%202025-02-26%20150500.png)
+
+### Settings Page
+![Demo App](https://github.com/PranayHaldiya/chatty-chat-web-app/blob/main/frontend/public/Screenshot%202025-02-26%20150833.png)
+
+### Profile Page
+![Demo App](https://github.com/PranayHaldiya/chatty-chat-web-app/blob/main/frontend/public/Screenshot%202025-02-26%20150526.png)
+
+### MongoDB Atlas Database
+![Demo App](https://github.com/PranayHaldiya/chatty-chat-web-app/blob/main/frontend/public/Screenshot%202025-02-26%20150653.png)
 
 Highlights:
 
@@ -12,7 +26,6 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
 ### Setup .env file
